@@ -1,0 +1,137 @@
+{
+  "F:medium|B:blocked": {
+    "forward": 0.0,
+    "slow_forward": 1.2983152,
+    "turn_left": 0.0,
+    "turn_right": 0.0,
+    "escape_left": 0.0,
+    "escape_right": 0.0,
+    "stop": 0.0
+  },
+  "F:medium|B:clear": {
+    "forward": 0.0,
+    "slow_forward": 1.203908224,
+    "turn_left": -3.232673835518611,
+    "turn_right": 0.0,
+    "escape_left": 0.0,
+    "escape_right": 0.0,
+    "stop": 0.0
+  },
+  "F:near|B:clear": {
+    "forward": 0.0,
+    "slow_forward": 0.0,
+    "turn_left": 3.2051999999999996,
+    "turn_right": 2.4181671176997126,
+    "escape_left": 0.0,
+    "escape_right": 0.0,
+    "stop": 0.0,
+    "soft_left": 0.7134605592386998,
+    "soft_right": 0.4
+  },
+  "F:clear|B:clear": {
+    "forward": 0.22703999999999996,
+    "slow_forward": 0.3,
+    "turn_left": 0.0,
+    "turn_right": 0.0,
+    "escape_left": 0.0,
+    "escape_right": 0.0,
+    "stop": 0.0,
+    "soft_left": 0.0,
+    "soft_right": 0.0
+  },
+  "F:extreme|B:clear": {
+    "forward": 0.0,
+    "slow_forward": 0.0,
+    "turn_left": 0.0,
+    "turn_right": 0.0,
+    "escape_left": 4.04752,
+    "escape_right": 4.31752,
+    "stop": 0.0
+  },
+  "F:danger|B:clear": {
+    "forward": 0.0,
+    "slow_forward": 0.0,
+    "turn_left": 1.655585899501382,
+    "turn_right": 5.441422261302696,
+    "escape_left": 0.0,
+    "escape_right": 0.0,
+    "stop": 0.0,
+    "soft_left": 0.0,
+    "soft_right": 0.0
+  },
+  "F:near|B:blocked": {
+    "forward": 0.0,
+    "slow_forward": 0.0,
+    "turn_left": -0.744988902698577,
+    "turn_right": 0.3,
+    "escape_left": 0.0,
+    "escape_right": 0.0,
+    "stop": 0.0
+  },
+  "F:unknown|B:unknown": {
+    "forward": 0.0,
+    "slow_forward": 0.0,
+    "turn_left": 0.0,
+    "turn_right": 0.0,
+    "escape_left": 0.0,
+    "escape_right": 0.0,
+    "stop": 8.510855086209869,
+    "soft_left": 0.0,
+    "soft_right": 0.0
+  },
+  "F:near|B:unknown": {
+    "forward": 0.0,
+    "slow_forward": 0.0,
+    "turn_left": 2.5350219013847104,
+    "turn_right": 0.3,
+    "escape_left": 0.0,
+    "escape_right": 0.0,
+    "stop": 0.0,
+    "soft_left": 0.4,
+    "soft_right": 3.1416958805464557
+  },
+  "F:clear|B:unknown": {
+    "forward": -0.6036671999999998,
+    "slow_forward": 0.3,
+    "soft_left": 0.0,
+    "soft_right": 0.0,
+    "turn_left": 0.0,
+    "turn_right": 0.0,
+    "escape_left": 0.0,
+    "escape_right": 0.0,
+    "stop": 0.0
+  },
+  "F:medium|B:unknown": {
+    "forward": 0.0,
+    "slow_forward": -0.9617280488507105,
+    "soft_left": 0.0,
+    "soft_right": 0.0,
+    "turn_left": 0.0,
+    "turn_right": 0.0,
+    "escape_left": 0.0,
+    "escape_right": 0.0,
+    "stop": 0.0
+  },
+  "F:danger|B:unknown": {
+    "forward": 0.0,
+    "slow_forward": 0.0,
+    "soft_left": 0.0,
+    "soft_right": 0.0,
+    "turn_left": 15.709932360660932,
+    "turn_right": 0.4,
+    "escape_left": 0.0,
+    "escape_right": 0.0,
+    "stop": 0.0
+  },
+  "F:extreme|B:unknown": {
+    "forward": 0.0,
+    "slow_forward": 0.0,
+    "soft_left": 0.0,
+    "soft_right": 0.0,
+    "turn_left": 0.0,
+    "turn_right": 0.0,
+    "escape_left": 14.641377974603756,
+    "escape_right": 0.45,
+    "stop": 0.0
+  }
+}
